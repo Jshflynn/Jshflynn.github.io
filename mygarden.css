@@ -74,7 +74,7 @@
     .activities{font-family: 'Roboto Mono'; font-size: 80%; color: grey;}
 
     .storytitle{font-size: 140%}
-    .story{text-align: left; line-height:160%; padding-left:20px;}
+    .story{text-align: left; line-height: 160%; padding-left: 10px; padding-right: 10px}
 
     .philosopher{font-weight: bold}
     .dates{color: grey; font-size: 80%; font-family: 'Roboto Mono';}
