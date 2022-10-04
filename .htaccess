@@ -1,1 +1,2 @@
-redirect 301 /fobty.htm https://www.jshflynn.github.io./FoBty.htm
+redirect 301 /fobty.html https://www.jshflynn.github.io./FoBty.html
+redirect 301 /fobty https://www.jshflynn.github.io./FoBty.html
